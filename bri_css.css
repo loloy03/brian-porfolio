@@ -1,0 +1,203 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.logo-font {
+  font-family: "Monoton", cursive;
+}
+
+.text-font {
+  font-family: "Marvel", sans-serif;
+}
+
+.primary-body-color {
+  background-color: #dcd7c9;
+}
+
+.secondary-body-color {
+  background-color: #fbfdfa;
+}
+
+.text-color-black {
+  color: black;
+}
+
+.text-color-white {
+  color: white;
+}
+
+#big-logo {
+  font-size: 50px;
+}
+
+#small-logo {
+  font-size: 100px;
+}
+.navbar-text {
+  font-size: 20px;
+}
+
+#intro {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.bigtext {
+  font-size: 18rem;
+  display: inline-block;
+  position: relative;
+}
+.brian-name {
+  position: absolute;
+  top: 270px;
+  left: 20px;
+  font-size: 5rem;
+}
+
+#img-arrow-down {
+  display: block;
+  margin: 7% auto auto auto;
+  width: 5%;
+  transition: 1s;
+  padding-bottom: 10%;
+}
+
+#img-arrow-down:hover {
+  width: 6%;
+  transition: 1s;
+}
+#know-brian {
+  margin-top: 10%;
+}
+.bri-info {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10%;
+}
+#bri-info-passion {
+  margin-top: 20%;
+}
+#socmed-div {
+  margin-top: 20%;
+}
+.socmed-icon {
+  transition: 1s;
+  display: inline-block;
+  width: 30px;
+}
+.socmed-icon:hover {
+  padding-top: 10px;
+  transition: 1s;
+}
+.socmed-icon-margin-left {
+  margin-left: 30px;
+}
+
+#brian-pic {
+  transition: 1s;
+  width: 100%;
+  opacity: 0.9;
+}
+#brian-pic:hover {
+  opacity: 1;
+  transition: 1s;
+}
+.img-icon {
+  transition: 1s;
+  width: 50%;
+  padding: 10%;
+}
+.img-icon:hover {
+  padding: 5%;
+  transition: 0.5s;
+}
+.col-lg-2 {
+  text-align: center;
+}
+h5 {
+  font-size: 1rem;
+}
+
+#works {
+  padding-left: 5%;
+  margin-bottom: 10%;
+}
+
+.website-works-icon {
+  width: 80%;
+  border: 3px solid black;
+  border-radius: 10px;
+  transition: 1s;
+}
+
+.website-works-icon:hover {
+  width: 90%;
+  transition: 1s;
+}
+
+.website-works-text {
+  margin-top: 10%;
+  margin-right: 10%;
+}
+.visit-github {
+  transition: 1s;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.visit-github:hover {
+  background-color: black;
+  color: white;
+  transform: 1s;
+}
+.github-icon-visit {
+  display: inline-block;
+  width: 30px;
+}
+#contact-me {
+  padding: 10%;
+}
+
+#need-help-text {
+  font-size: 5rem;
+}
+
+#help-icon {
+  width: 40%;
+  transition: 1s;
+  cursor: pointer;
+}
+
+#help-icon:hover {
+  width: 50%;
+  transition: 1s;
+  transition: 1s;
+}
+
+.margin-bottom-15 {
+  margin-bottom: 15%;
+}
+#contact-now {
+  border: 3px solid black;
+  display: inline;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 1s;
+}
+#contact-now:hover {
+  background-color: black;
+  color: white;
+  transition: 1s;
+}
+#credits {
+  background-color: black;
+  text-align: right;
+  padding: 2% 0;
+  color: white;
+}
